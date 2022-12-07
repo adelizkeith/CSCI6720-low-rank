@@ -1,0 +1,59 @@
+Testing layer: control. Current layer rank: control.
+Test loss: 0.045882876962423325
+Test accuracy: 0.9854999780654907
+
+Testing layer: 2. Current layer rank: 32.
+Test loss: 0.1427462100982666
+Test accuracy: 0.9693999886512756
+
+Testing layer: 2. Current layer rank: 1.
+Test loss: 1.3729407787322998
+Test accuracy: 0.4948999881744385
+
+Testing layer: 3. Current layer rank: 32.
+Test loss: 0.18341195583343506
+Test accuracy: 0.975600004196167
+
+Testing layer: 3. Current layer rank: 1.
+Test loss: 1.0517851114273071
+Test accuracy: 0.6152999997138977
+
+Testing layer: 4. Current layer rank: 32.
+Test loss: 0.1257983297109604
+Test accuracy: 0.9728000164031982
+
+Testing layer: 4. Current layer rank: 1.
+Test loss: 1.1350164413452148
+Test accuracy: 0.578499972820282
+
+Testing layer: 5. Current layer rank: 32.
+Test loss: 0.1877402514219284
+Test accuracy: 0.972000002861023
+
+Testing layer: 5. Current layer rank: 1.
+Test loss: 0.7411153316497803
+Test accuracy: 0.7567999958992004
+
+Testing layer: 6. Current layer rank: 32.
+Test loss: 0.11924687772989273
+Test accuracy: 0.9743000268936157
+
+Testing layer: 6. Current layer rank: 1.
+Test loss: 0.8735643625259399
+Test accuracy: 0.7200000286102295
+
+Testing layer: 7. Current layer rank: 32.
+Test loss: 0.05511251091957092
+Test accuracy: 0.9843000173568726
+
+Testing layer: 7. Current layer rank: 1.
+Test loss: 0.6789551973342896
+Test accuracy: 0.8568000197410583
+
+Percentile impact of low-rank layer being placed on layer 2: -47.45%
+Percentile impact of low-rank layer being placed on layer 3: -36.03%
+Percentile impact of low-rank layer being placed on layer 4: -39.43%
+Percentile impact of low-rank layer being placed on layer 5: -21.52%
+Percentile impact of low-rank layer being placed on layer 6: -25.43%
+Percentile impact of low-rank layer being placed on layer 7: -12.75%
+
